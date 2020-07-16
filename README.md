@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+### My name is Brett I love computers, the internet, and learning to program for them.
+
+
+
 
 <!--
 **brettjrea/brettjrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
