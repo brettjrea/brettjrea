@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-### My name is Brett I love computers, the internet, and learning to program for them.
+### My name is Brett, and I love computers, the internet, and learning to program for them.
 
-- 🔭 I’m currently working on getting my bachelor's in computer science.
-- 🌱 I’m currently taking Written and Verbal Communication for Software Development.
-- 👯 I’m looking to collaborate on anything cool and relevant.
+- 🎓 I am a graduate of Grand Canyon University with a Bachelor of Science in Software Development.
+- 🌟 Pardon the lack of repositories as I refresh and revitalize my GitHub to a more professional, post-graduate standard.
+- 🛠️ I’m focusing on highlighting key, core long-term projects that will be actively maintained.
+- 📚 Currently working through my documentation to reduce redundancies and create a single source of truth for both personal and public knowledge.
+- 👯 I’m looking to collaborate on exciting and impactful projects.
+
+[![Brett J Rea's GitHub stats](https://github-readme-stats.vercel.app/api?username=brettjrea&show_icons=true&theme=transparent&hide=)](https://github.com/brettjrea/github-readme-stats)
+
 <!--
 **brettjrea/brettjrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Brett J Rea's GitHub stats](https://github-readme-stats.vercel.app/api?username=brettjrea&show_icons=true&theme=transparent&hide=)](https://github.com/brettjrea/github-readme-stats)
