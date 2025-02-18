@@ -1,30 +1,47 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brettjrea&repo=brettjrea)](https://github.com/brettjrea/github-readme-stats)
+## Hi there! 👋
 
-## Hi there 👋
+### I'm Brett, a passionate developer who loves computers, the internet, and building software!
 
-### My name is Brett, and I love computers, the internet, and learning to program for them.
+- 🎓 **Graduate of Grand Canyon University** with a **B.S. in Software Development**.
+- 🌟 **Currently revitalizing my GitHub** to reflect a more professional, post-graduate standard.
+- 🛠️ **Focused on key long-term projects** that are actively maintained and impactful.
+- 📚 **Refining documentation** to reduce redundancies and create a single source of truth.
+- 👯 **Looking to collaborate** on exciting, innovative, and meaningful projects.
 
-- 🎓 I am a graduate of Grand Canyon University with a Bachelor of Science in Software Development.
-- 🌟 Pardon the lack of repositories as I refresh and revitalize my GitHub to a more professional, post-graduate standard.
-- 🛠️ I’m focusing on highlighting key, core long-term projects that will be actively maintained.
-- 📚 Currently working through my documentation to reduce redundancies and create a single source of truth for both personal and public knowledge.
-- 👯 I’m looking to collaborate on exciting and impactful projects.
+---
+
+### 💡 **Technical Skills & Interests**
+
+🚀 **Programming & Development:**
+- Languages: **JavaScript, TypeScript, Rust, Java, C#, Python, C**
+- Frameworks & Libraries: **React.js, Redux, AngularJS, ASP.NET Core, Spring Boot, Node.js**
+- Web Development: **REST APIs, AJAX, Webpack, Responsive Design**
+- Databases: **SQL, MySQL, PostgreSQL**
+- DevOps & Tools: **Docker, Git, Linux System Administration, Microsoft Azure**
+
+🧠 **Software Engineering & Methodologies:**
+- **Data Structures & Algorithms**
+- **Software Architecture & Design Patterns**
+- **Agile & Scrum Methodologies**
+- **User Experience (UX) & User Interface (UI) Design**
+- **Machine Learning & Artificial Intelligence (AI)**
+
+🎮 **Game Development & SDKs:**
+- **Unreal Engine, Unity, API Development**
+- **Embedded Systems, Microservices**
+
+---
 <!--
-[![Brett J Rea's GitHub stats](https://github-readme-stats.vercel.app/api?username=brettjrea&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=)](https://github.com/brettjrea/github-readme-stats)
+### 📊 **GitHub Stats & Activity**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brettjrea)](https://github.com/brettjrea/github-readme-stats)
+![Brett J Rea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brettjrea&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brettjrea)
 
-**brettjrea/brettjrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on getting my bachelor's in computer science.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📬 **Let's Connect!**
+💻 [LinkedIn](https://www.linkedin.com/in/brettjrea) | 📧 brettjrea@example.com | 🌐 [Portfolio](https://yourportfolio.com)
 -->
+
+Let's build something amazing together! 🚀
