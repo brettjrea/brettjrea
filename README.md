@@ -1,32 +1,32 @@
 ## Hi there! 👋
 
-### I'm Brett, a passionate developer who loves computers, the internet, and building software!
+### I'm Brett, a software developer and cloud architect with a passion for building scalable, high-performance applications!
 
 - 🎓 **Graduate of Grand Canyon University** with a **B.S. in Software Development**.
-- 🌟 **Currently revitalizing my GitHub** to reflect a more professional, post-graduate standard.
-- 🛠️ **Focused on key long-term projects** that are actively maintained and impactful.
-- 📚 **Refining documentation** to reduce redundancies and create a single source of truth.
-- 👯 **Looking to collaborate** on exciting, innovative, and meaningful projects.
+- 🌟 **Currently refining my GitHub** to align with my professional experience in software development, cloud architecture, and IT consulting.
+- 🛠️ **Developing cloud-native solutions, enterprise applications, and secure infrastructure deployments.**
+- 📚 **Specializing in technical documentation, system architecture, and infrastructure optimization.**
+- 👯 **Seeking collaboration on enterprise software, cloud infrastructure, and DevOps projects.**
 
 ---
 
-### 💡 **Technical Skills & Interests**
+### 💡 **Technical Expertise**
 
-🚀 **Programming & Development:**
+🚀 **Software Development & System Architecture:**
 - Languages: **JavaScript, TypeScript, Rust, Java, C#, Python, C**
-- Frameworks & Libraries: **React.js, Redux, AngularJS, ASP.NET Core, Spring Boot, Node.js**
-- Web Development: **REST APIs, AJAX, Webpack, Responsive Design**
+- Frameworks & Libraries: **React, Redux, Angular, ASP.NET Core, Spring Boot, Node.js**
+- Web Development: **REST APIs, Webpack, Responsive Design**
 - Databases: **SQL, MySQL, PostgreSQL**
 - DevOps & Tools: **Docker, Git, Linux System Administration, Microsoft Azure**
 
-🧠 **Software Engineering & Methodologies:**
-- **Data Structures & Algorithms**
-- **Software Architecture & Design Patterns**
-- **Agile & Scrum Methodologies**
-- **User Experience (UX) & User Interface (UI) Design**
-- **Machine Learning & Artificial Intelligence (AI)**
+🧠 **Enterprise Architecture & Cloud Computing:**
+- **Microservices, Distributed Systems, and High-Availability Architectures**
+- **Technical Documentation, UML Diagrams, and Flowcharts**
+- **Infrastructure as Code (IaC), CI/CD Pipelines, and Containerization**
+- **Security Engineering, Network Hardening, and DevSecOps**
+- **Cloud Deployments on Azure, AWS, and Google Cloud Platform (GCP)**
 
-🎮 **Game Development & SDKs:**
+⚡ **Infrastructure, Security, and Virtualization:**
 - **Unreal Engine, Unity, API Development**
 - **Embedded Systems, Microservices**
 
