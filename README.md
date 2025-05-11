@@ -8,6 +8,9 @@
 - 📚 **Specializing in technical documentation, system architecture, and infrastructure optimization.**
 - 👯 **Seeking collaboration on enterprise software, cloud infrastructure, and DevOps projects.**
 
+### 📬 **Let's Connect!**
+🌐 [brettjrea.dev](https://brettjrea.dev) | 📧 brettjrea.dev@gmail.com | 💻 [LinkedIn](https://www.linkedin.com/in/brettjrea) 
+
 ---
 
 ### 💡 **Technical Expertise**
