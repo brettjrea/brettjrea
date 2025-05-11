@@ -46,4 +46,3 @@
 💻 [LinkedIn](https://www.linkedin.com/in/brettjrea) | 📧 brettjrea@example.com | 🌐 [Portfolio](https://yourportfolio.com)
 -->
 
-Let's build something amazing together! 🚀
